@@ -18,5 +18,14 @@ public class hashing{
         int population = map.get("india");
         System.out.println("population of india : " +population );
 
+        // int ppopulation = map.get("indonesia");
+        // System.out.println("population of indonesia : " +ppopulation );
+
+
+        //containsKey - O(1)
+        System.out.println(map.containsKey("india"));
+        System.out.println(map.containsKey("indonesia"));
+
+        //remove
     }
 }
