@@ -14,7 +14,9 @@ public class hashing{
 
         System.out.println(map);
 
-
+        // get -O(1)
+        int population = map.get("india");
+        System.out.println("population of india : " +population );
 
     }
 }
