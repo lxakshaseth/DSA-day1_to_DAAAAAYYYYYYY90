@@ -29,5 +29,9 @@ public class hashing{
         //remove - O(1)
         System.out.println(map.remove("pak"));
         System.out.println(map);
+
+        //size
+
+        System.out.println(map.size());
     }
 }
