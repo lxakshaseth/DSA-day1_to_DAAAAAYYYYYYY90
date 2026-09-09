@@ -33,5 +33,8 @@ public class hashing{
         //size
 
         System.out.println(map.size());
+
+        //is empty
+        System.out.println(map.isEmpty());
     }
 }
