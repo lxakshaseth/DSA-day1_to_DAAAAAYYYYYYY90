@@ -26,6 +26,8 @@ public class hashing{
         System.out.println(map.containsKey("india"));
         System.out.println(map.containsKey("indonesia"));
 
-        //remove
+        //remove - O(1)
+        System.out.println(map.remove("pak"));
+        System.out.println(map);
     }
 }
