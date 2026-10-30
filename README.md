@@ -58,6 +58,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 136 | Single Number | Bit Manipulation | XOR Cancellation Identity | O(n) | O(1) |
 | 139 | Word Break | 1-D DP | Bottom-Up DP with HashSet Lookup | O(n^2 * k) | O(n) |
 | 141 | Linked List Cycle | Linked List | Floyd's Tortoise and Hare | O(n) | O(1) |
+| 146 | LRU Cache | Linked List | HashMap + Doubly Linked List | O(1) all ops | O(capacity) |
 | 150 | Evaluate Reverse Polish Notation | Stack | Stack-based Operand Evaluation | O(n) | O(n) |
 | 155 | Min Stack | Stack | Two-Stack Minimum Tracking | O(1) all ops | O(n) |
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers | Two Pointers (Left / Right) | O(n) | O(1) |
