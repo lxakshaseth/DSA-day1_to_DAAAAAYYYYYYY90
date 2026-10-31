@@ -25,6 +25,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 1 | Two Sum | Arrays & Hashing | HashMap complement lookup | O(n) | O(n) |
 | 3 | Longest Substring Without Repeating Characters | Sliding Window | Sliding Window + HashSet | O(n) | O(min(m, n)) |
 | 11 | Container With Most Water | Two Pointers | Two-Pointer Greedy | O(n) | O(1) |
+| 12 | Integer to Roman | Math & Geometry | Greedy Value-to-Symbol Mapping | O(1) | O(1) |
 | 15 | 3Sum | Two Pointers | Sorting + Two Pointers | O(n^2) | O(1) |
 | 19 | Remove Nth Node From End of List | Linked List | Two Pointers (Fast & Slow) + Dummy Head | O(L) | O(1) |
 | 20 | Valid Parentheses | Stack | Stack matching | O(n) | O(n) |
