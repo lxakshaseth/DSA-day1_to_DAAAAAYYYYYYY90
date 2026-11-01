@@ -42,6 +42,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 55 | Jump Game | Greedy | Greedy Backward Goal Shift | O(n) | O(1) |
 | 56 | Merge Intervals | Intervals | Sorting + Single-Pass Merge | O(n log n) | O(n) |
 | 57 | Insert Interval | Intervals | Three-Phase Linear Merge | O(n) | O(n) |
+| 58 | Length of Last Word | Strings | Reverse Traversal | O(n) | O(1) |
 | 62 | Unique Paths | 2-D DP | Space-Optimized 1-D DP Array | O(m * n) | O(n) |
 | 66 | Plus One | Math & Geometry | Right-to-Left Carry Propagation | O(n) | O(1) |
 | 70 | Climbing Stairs | 1-D DP | Fibonacci Rolling Variables | O(n) | O(1) |
