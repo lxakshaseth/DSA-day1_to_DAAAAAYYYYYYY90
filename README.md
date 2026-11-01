@@ -47,6 +47,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 70 | Climbing Stairs | 1-D DP | Fibonacci Rolling Variables | O(n) | O(1) |
 | 73 | Set Matrix Zeroes | Math & Geometry | In-Place Row & Column Markers | O(m * n) | O(1) |
 | 74 | Search a 2D Matrix | Binary Search | Virtual 1-D Binary Search | O(log(m * n)) | O(1) |
+| 77 | Combinations | Backtracking | Backtracking with Pruning | O(k * C(n, k)) | O(k) |
 | 78 | Subsets | Backtracking | Power Set Backtracking | O(n * 2^n) | O(n) |
 | 98 | Validate Binary Search Tree | Trees | Recursive Range Validation (min, max) | O(n) | O(h) |
 | 100 | Same Tree | Trees | Recursive DFS Structural Equality | O(n) | O(h) |
