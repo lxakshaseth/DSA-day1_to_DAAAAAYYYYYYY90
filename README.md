@@ -51,6 +51,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 77 | Combinations | Backtracking | Backtracking with Pruning | O(k * C(n, k)) | O(k) |
 | 78 | Subsets | Backtracking | Recursive Backtracking / Bit Manipulation | O(n * 2^n) | O(n) |
 | 98 | Validate Binary Search Tree | Trees | Recursive Range Validation (min, max) | O(n) | O(h) |
+| 99 | Recover Binary Search Tree | Trees | In-Order Traversal Anomaly Detection / Morris Traversal | O(n) | O(1) Morris / O(h) DFS |
 | 100 | Same Tree | Trees | Recursive DFS Structural Equality | O(n) | O(h) |
 | 102 | Binary Tree Level Order Traversal | Trees | BFS Queue Level-by-Level | O(n) | O(n) |
 | 104 | Maximum Depth of Binary Tree | Trees | Recursive Depth-First Search | O(n) | O(h) |
