@@ -45,6 +45,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 58 | Length of Last Word | Strings | Reverse Traversal | O(n) | O(1) |
 | 62 | Unique Paths | 2-D DP | Space-Optimized 1-D DP Array | O(m * n) | O(n) |
 | 66 | Plus One | Math & Geometry | Right-to-Left Carry Propagation | O(n) | O(1) |
+| 69 | Sqrt(x) | Binary Search | Binary Search (Overflow-Safe) | O(log x) | O(1) |
 | 70 | Climbing Stairs | 1-D DP | Fibonacci Rolling Variables | O(n) | O(1) |
 | 73 | Set Matrix Zeroes | Math & Geometry | In-Place Row & Column Markers | O(m * n) | O(1) |
 | 74 | Search a 2D Matrix | Binary Search | Virtual 1-D Binary Search | O(log(m * n)) | O(1) |
