@@ -51,6 +51,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 74 | Search a 2D Matrix | Binary Search | Virtual 1-D Binary Search | O(log(m * n)) | O(1) |
 | 77 | Combinations | Backtracking | Backtracking with Pruning | O(k * C(n, k)) | O(k) |
 | 78 | Subsets | Backtracking | Recursive Backtracking / Bit Manipulation | O(n * 2^n) | O(n) |
+| 90 | Subsets II | Backtracking | Sorting + Backtracking with Duplicate Pruning | O(n * 2^n) | O(n) |
 | 98 | Validate Binary Search Tree | Trees | Recursive Range Validation (min, max) | O(n) | O(h) |
 | 99 | Recover Binary Search Tree | Trees | In-Order Traversal Anomaly Detection / Morris Traversal | O(n) | O(1) Morris / O(h) DFS |
 | 100 | Same Tree | Trees | Recursive DFS Structural Equality | O(n) | O(h) |
