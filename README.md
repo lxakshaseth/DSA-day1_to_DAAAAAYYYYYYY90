@@ -33,6 +33,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 21 | Merge Two Sorted Lists | Linked List | Dummy Node + Two Pointers | O(n + m) | O(1) |
 | 33 | Search in Rotated Sorted Array | Binary Search | Modified Binary Search | O(log n) | O(1) |
 | 39 | Combination Sum | Backtracking | Backtracking with element reuse | O(2^(target/min)) | O(target/min) |
+| 40 | Combination Sum II | Backtracking | Sorting + Backtracking with Duplicate and Exceeded-Sum Pruning | O(2^n) | O(n) |
 | 46 | Permutations | Backtracking | Backtracking with boolean used array | O(n * n!) | O(n) |
 | 48 | Rotate Image | Math & Geometry | Matrix Transpose + Row Reverse | O(n^2) | O(1) |
 | 49 | Group Anagrams | Arrays & Hashing | Categorization by sorted character key | O(n * k log k) | O(n * k) |
