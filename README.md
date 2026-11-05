@@ -60,6 +60,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 102 | Binary Tree Level Order Traversal | Trees | BFS Queue Level-by-Level | O(n) | O(n) |
 | 104 | Maximum Depth of Binary Tree | Trees | Recursive Depth-First Search | O(n) | O(h) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Trees | Divide and Conquer + HashMap Lookup | O(n) | O(n) |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Trees | Divide and Conquer + HashMap Lookup | O(n) | O(n) |
 | 121 | Best Time to Buy and Sell Stock | Sliding Window | One-Pass Minimum Price Tracking | O(n) | O(1) |
 | 125 | Valid Palindrome | Two Pointers | Two Pointers with Alphanumeric Filtering | O(n) | O(1) |
 | 128 | Longest Consecutive Sequence | Arrays & Hashing | HashSet Sequence Start Check | O(n) | O(n) |
