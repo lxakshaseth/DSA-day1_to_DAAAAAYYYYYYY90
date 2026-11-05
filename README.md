@@ -77,6 +77,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 190 | Reverse Bits | Bit Manipulation | Bitwise Shift and Masking | O(1) | O(1) |
 | 191 | Number of 1 Bits | Bit Manipulation | Brian Kernighan's n & (n - 1) | O(k) | O(1) |
 | 198 | House Robber | 1-D DP | Space-Optimized Rolling DP | O(n) | O(1) |
+| 199 | Binary Tree Right Side View | Trees | BFS Level Order Traversal (Last Node per Level) | O(n) | O(D) |
 | 200 | Number of Islands | Graphs | DFS Island Sinking | O(m * n) | O(m * n) |
 | 202 | Happy Number | Math & Geometry | Floyd's Two-Pointer Cycle Detection | O(log n) | O(1) |
 | 206 | Reverse Linked List | Linked List | Iterative Three Pointers (prev, curr, next) | O(n) | O(1) |
