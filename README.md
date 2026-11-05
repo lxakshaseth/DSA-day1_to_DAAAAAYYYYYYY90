@@ -53,8 +53,10 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 76 | Minimum Window Substring | Sliding Window | Sliding Window + ASCII Frequency Array | O(m + n) | O(1) |
 | 77 | Combinations | Backtracking | Backtracking with Pruning | O(k * C(n, k)) | O(k) |
 | 78 | Subsets | Backtracking | Recursive Backtracking / Bit Manipulation | O(n * 2^n) | O(n) |
+| 79 | Word Search | Backtracking | Backtracking / In-Place Matrix DFS | O(m * n * 3^L) | O(L) |
 | 90 | Subsets II | Backtracking | Sorting + Backtracking with Duplicate Pruning | O(n * 2^n) | O(n) |
 | 91 | Decode Ways | 1-D DP | Space-Optimized 1-D Dynamic Programming | O(n) | O(1) |
+| 92 | Reverse Linked List II | Linked List | Single-Pass In-Place Pointer Reversal | O(n) | O(1) |
 | 98 | Validate Binary Search Tree | Trees | Recursive Range Validation (min, max) | O(n) | O(h) |
 | 99 | Recover Binary Search Tree | Trees | In-Order Traversal Anomaly Detection / Morris Traversal | O(n) | O(1) Morris / O(h) DFS |
 | 100 | Same Tree | Trees | Recursive DFS Structural Equality | O(n) | O(h) |
@@ -98,6 +100,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
 | 435 | Non-overlapping Intervals | Intervals | Greedy End-Time Interval Scheduling | O(n log n) | O(1) |
+| 543 | Diameter of Binary Tree | Trees | Post-Order DFS / Subtree Depth Aggregation | O(n) | O(h) |
 | 572 | Subtree of Another Tree | Trees | Recursive DFS + Same Tree Helper | O(n * m) | O(h) |
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
