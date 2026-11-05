@@ -53,6 +53,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 76 | Minimum Window Substring | Sliding Window | Sliding Window + ASCII Frequency Array | O(m + n) | O(1) |
 | 77 | Combinations | Backtracking | Backtracking with Pruning | O(k * C(n, k)) | O(k) |
 | 78 | Subsets | Backtracking | Recursive Backtracking / Bit Manipulation | O(n * 2^n) | O(n) |
+| 79 | Word Search | Backtracking | Backtracking / In-Place Matrix DFS | O(m * n * 3^L) | O(L) |
 | 90 | Subsets II | Backtracking | Sorting + Backtracking with Duplicate Pruning | O(n * 2^n) | O(n) |
 | 91 | Decode Ways | 1-D DP | Space-Optimized 1-D Dynamic Programming | O(n) | O(1) |
 | 92 | Reverse Linked List II | Linked List | Single-Pass In-Place Pointer Reversal | O(n) | O(1) |
