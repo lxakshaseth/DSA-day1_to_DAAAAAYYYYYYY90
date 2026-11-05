@@ -55,6 +55,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 78 | Subsets | Backtracking | Recursive Backtracking / Bit Manipulation | O(n * 2^n) | O(n) |
 | 90 | Subsets II | Backtracking | Sorting + Backtracking with Duplicate Pruning | O(n * 2^n) | O(n) |
 | 91 | Decode Ways | 1-D DP | Space-Optimized 1-D Dynamic Programming | O(n) | O(1) |
+| 92 | Reverse Linked List II | Linked List | Single-Pass In-Place Pointer Reversal | O(n) | O(1) |
 | 98 | Validate Binary Search Tree | Trees | Recursive Range Validation (min, max) | O(n) | O(h) |
 | 99 | Recover Binary Search Tree | Trees | In-Order Traversal Anomaly Detection / Morris Traversal | O(n) | O(1) Morris / O(h) DFS |
 | 100 | Same Tree | Trees | Recursive DFS Structural Equality | O(n) | O(h) |
