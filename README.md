@@ -69,11 +69,13 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 121 | Best Time to Buy and Sell Stock | Sliding Window | One-Pass Minimum Price Tracking | O(n) | O(1) |
 | 125 | Valid Palindrome | Two Pointers | Two Pointers with Alphanumeric Filtering | O(n) | O(1) |
 | 128 | Longest Consecutive Sequence | Arrays & Hashing | HashSet Sequence Start Check | O(n) | O(n) |
+| 131 | Palindrome Partitioning | Backtracking | Backtracking with Two-Pointer Palindrome Validation | O(n * 2^n) | O(n) |
 | 133 | Clone Graph | Graphs | Recursive DFS with Visited HashMap | O(V + E) | O(V) |
 | 134 | Gas Station | Greedy | Single-Pass Greedy Tank Reset | O(n) | O(1) |
 | 136 | Single Number | Bit Manipulation | XOR Cancellation Identity | O(n) | O(1) |
 | 139 | Word Break | 1-D DP | Bottom-Up DP with HashSet Lookup | O(n^2 * k) | O(n) |
 | 141 | Linked List Cycle | Linked List | Floyd's Tortoise and Hare | O(n) | O(1) |
+| 143 | Reorder List | Linked List | Fast-Slow Middle Split + Reverse + Interleave Merge | O(n) | O(1) |
 | 146 | LRU Cache | Linked List | HashMap + Doubly Linked List | O(1) all ops | O(capacity) |
 | 150 | Evaluate Reverse Polish Notation | Stack | Stack-based Operand Evaluation | O(n) | O(n) |
 | 152 | Maximum Product Subarray | 1-D DP | Modified Kadane's Algorithm (Min / Max Tracking) | O(n) | O(1) |
