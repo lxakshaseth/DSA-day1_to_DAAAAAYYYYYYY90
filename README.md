@@ -67,6 +67,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Trees | Divide and Conquer + HashMap Lookup | O(n) | O(n) |
 | 110 | Balanced Binary Tree | Trees | Bottom-Up Post-Order DFS (Short-Circuit Sentinel) | O(n) | O(h) |
 | 121 | Best Time to Buy and Sell Stock | Sliding Window | One-Pass Minimum Price Tracking | O(n) | O(1) |
+| 124 | Binary Tree Maximum Path Sum | Trees | Post-Order DFS with Subtree Gain Pruning | O(n) | O(h) |
 | 125 | Valid Palindrome | Two Pointers | Two Pointers with Alphanumeric Filtering | O(n) | O(1) |
 | 128 | Longest Consecutive Sequence | Arrays & Hashing | HashSet Sequence Start Check | O(n) | O(n) |
 | 131 | Palindrome Partitioning | Backtracking | Backtracking with Two-Pointer Palindrome Validation | O(n * 2^n) | O(n) |
