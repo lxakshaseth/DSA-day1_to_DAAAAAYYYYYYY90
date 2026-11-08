@@ -107,6 +107,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
+| 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
 | 435 | Non-overlapping Intervals | Intervals | Greedy End-Time Interval Scheduling | O(n log n) | O(1) |
 | 543 | Diameter of Binary Tree | Trees | Post-Order DFS / Subtree Depth Aggregation | O(n) | O(h) |
