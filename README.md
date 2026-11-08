@@ -23,6 +23,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | Problem # | Title | Category | Optimal Approach | Time Complexity | Space Complexity |
 |:---:|:---|:---|:---|:---:|:---:|
 | 1 | Two Sum | Arrays & Hashing | HashMap complement lookup | O(n) | O(n) |
+| 2 | Add Two Numbers | Linked List | Elementary Math with Carry Propagation | O(max(m, n)) | O(max(m, n)) |
 | 3 | Longest Substring Without Repeating Characters | Sliding Window | Sliding Window + HashSet | O(n) | O(min(m, n)) |
 | 5 | Longest Palindromic Substring | Two Pointers | Expand Around Center | O(n^2) | O(1) |
 | 11 | Container With Most Water | Two Pointers | Two-Pointer Greedy | O(n) | O(1) |
