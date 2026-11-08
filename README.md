@@ -96,9 +96,11 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 226 | Invert Binary Tree | Trees | Recursive DFS Subtree Swap | O(n) | O(h) |
 | 230 | Kth Smallest Element in a BST | Trees | Iterative In-Order Traversal with Stack | O(H + k) | O(H) |
 | 235 | Lowest Common Ancestor of a BST | Trees | Iterative BST Split Point Search | O(h) | O(1) |
+| 236 | Lowest Common Ancestor of a Binary Tree | Trees | Recursive Post-Order DFS (LCA Split Point) | O(n) | O(h) |
 | 238 | Product of Array Except Self | Arrays & Hashing | Prefix and Suffix Running Products | O(n) | O(1) |
 | 242 | Valid Anagram | Arrays & Hashing | 26-Letter Frequency Array | O(n) | O(1) |
 | 268 | Missing Number | Bit Manipulation | XOR Index-Value Cancellation | O(n) | O(1) |
+| 287 | Find the Duplicate Number | Linked List | Floyd's Tortoise and Hare (Cycle Detection) | O(n) | O(1) |
 | 300 | Longest Increasing Subsequence | 1-D DP | Dynamic Programming (n^2) | O(n^2) | O(n) |
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
