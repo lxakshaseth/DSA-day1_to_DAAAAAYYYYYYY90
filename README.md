@@ -37,6 +37,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 36 | Valid Sudoku | Arrays & Hashing | Single-Pass Boolean Lookup Arrays | O(1) | O(1) |
 | 39 | Combination Sum | Backtracking | Backtracking with element reuse | O(2^(target/min)) | O(target/min) |
 | 40 | Combination Sum II | Backtracking | Sorting + Backtracking with Duplicate and Exceeded-Sum Pruning | O(2^n) | O(n) |
+| 42 | Trapping Rain Water | Two Pointers | Two Pointers with leftMax & rightMax Tracking | O(n) | O(1) |
 | 46 | Permutations | Backtracking | Backtracking with boolean used array | O(n * n!) | O(n) |
 | 48 | Rotate Image | Math & Geometry | Matrix Transpose + Row Reverse | O(n^2) | O(1) |
 | 49 | Group Anagrams | Arrays & Hashing | Categorization by sorted character key | O(n * k log k) | O(n * k) |
