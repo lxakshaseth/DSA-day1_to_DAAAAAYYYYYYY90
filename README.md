@@ -119,6 +119,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
+| 981 | Time Based Key-Value Store | Binary Search | HashMap + Chronological ArrayList + Binary Search | O(1) set / O(log n) get | O(N) |
 | 1143 | Longest Common Subsequence | 2-D DP | Space-Optimized 1-D DP (Rolling Diagonal) | O(m * n) | O(min(m, n)) |
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
 
