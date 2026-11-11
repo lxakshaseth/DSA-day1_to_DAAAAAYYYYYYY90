@@ -33,6 +33,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 19 | Remove Nth Node From End of List | Linked List | Two Pointers (Fast & Slow) + Dummy Head | O(L) | O(1) |
 | 20 | Valid Parentheses | Stack | Stack matching | O(n) | O(n) |
 | 21 | Merge Two Sorted Lists | Linked List | Dummy Node + Two Pointers | O(n + m) | O(1) |
+| 23 | Merge k Sorted Lists | Linked List | Divide & Conquer (Bottom-Up Pairwise Merge) | O(N log k) | O(1) |
 | 33 | Search in Rotated Sorted Array | Binary Search | Modified Binary Search | O(log n) | O(1) |
 | 36 | Valid Sudoku | Arrays & Hashing | Single-Pass Boolean Lookup Arrays | O(1) | O(1) |
 | 39 | Combination Sum | Backtracking | Backtracking with element reuse | O(2^(target/min)) | O(target/min) |
