@@ -108,6 +108,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 242 | Valid Anagram | Arrays & Hashing | 26-Letter Frequency Array | O(n) | O(1) |
 | 268 | Missing Number | Bit Manipulation | XOR Index-Value Cancellation | O(n) | O(1) |
 | 287 | Find the Duplicate Number | Linked List | Floyd's Tortoise and Hare (Cycle Detection) | O(n) | O(1) |
+| 295 | Find Median from Data Stream | Heap | Two Balanced Heaps (Max-Heap + Min-Heap) | O(log n) add / O(1) find | O(n) |
 | 297 | Serialize and Deserialize Binary Tree | Trees | Pre-Order DFS with Null Sentinel Markers | O(n) | O(n) |
 | 300 | Longest Increasing Subsequence | 1-D DP | Dynamic Programming (n^2) | O(n^2) | O(n) |
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
