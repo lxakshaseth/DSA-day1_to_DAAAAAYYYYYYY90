@@ -25,6 +25,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 1 | Two Sum | Arrays & Hashing | HashMap complement lookup | O(n) | O(n) |
 | 2 | Add Two Numbers | Linked List | Elementary Math with Carry Propagation | O(max(m, n)) | O(max(m, n)) |
 | 3 | Longest Substring Without Repeating Characters | Sliding Window | Sliding Window + HashSet | O(n) | O(min(m, n)) |
+| 4 | Median of Two Sorted Arrays | Binary Search | Binary Search Cut on Shorter Array | O(log(min(m, n))) | O(1) |
 | 5 | Longest Palindromic Substring | Two Pointers | Expand Around Center | O(n^2) | O(1) |
 | 11 | Container With Most Water | Two Pointers | Two-Pointer Greedy | O(n) | O(1) |
 | 12 | Integer to Roman | Math & Geometry | Greedy Value-to-Symbol Mapping | O(1) | O(1) |
@@ -115,6 +116,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
+| 416 | Partition Equal Subset Sum | 1-D DP | 0/1 Knapsack Space-Optimized DP | O(n * target) | O(target) |
 | 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
 | 435 | Non-overlapping Intervals | Intervals | Greedy End-Time Interval Scheduling | O(n log n) | O(1) |
@@ -123,6 +125,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
+| 875 | Koko Eating Bananas | Binary Search | Binary Search on Eating Speed Answer Space | O(n log maxPile) | O(1) |
 | 981 | Time Based Key-Value Store | Binary Search | HashMap + Chronological ArrayList + Binary Search | O(1) set / O(log n) get | O(N) |
 | 1143 | Longest Common Subsequence | 2-D DP | Space-Optimized 1-D DP (Rolling Diagonal) | O(m * n) | O(min(m, n)) |
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
