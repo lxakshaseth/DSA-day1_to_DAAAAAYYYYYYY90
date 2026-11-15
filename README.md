@@ -116,6 +116,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 297 | Serialize and Deserialize Binary Tree | Trees | Pre-Order DFS with Null Sentinel Markers | O(n) | O(n) |
 | 300 | Longest Increasing Subsequence | 1-D DP | Dynamic Programming (n^2) | O(n^2) | O(n) |
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
+| 332 | Reconstruct Itinerary | Graphs | Hierholzer's Algorithm (Eulerian Path with Min-Heap) | O(E log E) | O(V + E) |
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
 | 416 | Partition Equal Subset Sum | 1-D DP | 0/1 Knapsack Space-Optimized DP | O(n * target) | O(target) |
