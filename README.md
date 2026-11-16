@@ -75,6 +75,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Trees | Divide and Conquer + HashMap Lookup | O(n) | O(n) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Trees | Divide and Conquer + HashMap Lookup | O(n) | O(n) |
 | 110 | Balanced Binary Tree | Trees | Bottom-Up Post-Order DFS (Short-Circuit Sentinel) | O(n) | O(h) |
+| 115 | Distinct Subsequences | 2-D DP | Space-Optimized 1-D Dynamic Programming | O(m * n) | O(n) |
 | 121 | Best Time to Buy and Sell Stock | Sliding Window | One-Pass Minimum Price Tracking | O(n) | O(1) |
 | 124 | Binary Tree Maximum Path Sum | Trees | Post-Order DFS with Subtree Gain Pruning | O(n) | O(h) |
 | 125 | Valid Palindrome | Two Pointers | Two Pointers with Alphanumeric Filtering | O(n) | O(1) |
@@ -130,6 +131,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
+| 853 | Car Fleet | Stack | Position Sorting + Monotonic Arrival-Time Tracking | O(n log n) | O(n) |
 | 875 | Koko Eating Bananas | Binary Search | Binary Search on Eating Speed Answer Space | O(n log maxPile) | O(1) |
 | 981 | Time Based Key-Value Store | Binary Search | HashMap + Chronological ArrayList + Binary Search | O(1) set / O(log n) get | O(N) |
 | 1143 | Longest Common Subsequence | 2-D DP | Space-Optimized 1-D DP (Rolling Diagonal) | O(m * n) | O(min(m, n)) |
