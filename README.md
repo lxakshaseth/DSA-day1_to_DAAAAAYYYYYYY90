@@ -45,6 +45,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 48 | Rotate Image | Math & Geometry | Matrix Transpose + Row Reverse | O(n^2) | O(1) |
 | 49 | Group Anagrams | Arrays & Hashing | Categorization by sorted character key | O(n * k log k) | O(n * k) |
 | 50 | Pow(x, n) | Math & Geometry | Binary Exponentiation (Fast Power) | O(log n) | O(1) |
+| 51 | N-Queens | Backtracking | Backtracking with Column & Diagonal Bitmasks | O(n!) | O(n) |
 | 53 | Maximum Subarray | Greedy | Kadane's Algorithm | O(n) | O(1) |
 | 54 | Spiral Matrix | Math & Geometry | Four-Boundary Simulation | O(m * n) | O(1) |
 | 55 | Jump Game | Greedy | Greedy Backward Goal Shift | O(n) | O(1) |
