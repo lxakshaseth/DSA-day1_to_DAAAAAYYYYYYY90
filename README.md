@@ -138,6 +138,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
 | 778 | Swim in Rising Water | Advanced Graphs | Dijkstra's Algorithm (Minimax Bottleneck Path) | O(n^2 log n) | O(n^2) |
+| 787 | Cheapest Flights Within K Stops | Advanced Graphs | Bellman-Ford (Level-by-Level Edge Relaxation) | O(k * E) | O(n) |
 | 853 | Car Fleet | Stack | Position Sorting + Monotonic Arrival-Time Tracking | O(n log n) | O(n) |
 | 875 | Koko Eating Bananas | Binary Search | Binary Search on Eating Speed Answer Space | O(n log maxPile) | O(1) |
 | 981 | Time Based Key-Value Store | Binary Search | HashMap + Chronological ArrayList + Binary Search | O(1) set / O(log n) get | O(N) |
