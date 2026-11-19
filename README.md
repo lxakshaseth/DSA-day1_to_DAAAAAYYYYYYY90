@@ -121,6 +121,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 295 | Find Median from Data Stream | Heap | Two Balanced Heaps (Max-Heap + Min-Heap) | O(log n) add / O(1) find | O(n) |
 | 297 | Serialize and Deserialize Binary Tree | Trees | Pre-Order DFS with Null Sentinel Markers | O(n) | O(n) |
 | 300 | Longest Increasing Subsequence | 1-D DP | Dynamic Programming (n^2) | O(n^2) | O(n) |
+| 309 | Best Time to Buy and Sell Stock with Cooldown | 1-D DP | State Machine Dynamic Programming (held, sold, rest) | O(n) | O(1) |
 | 312 | Burst Balloons | 2-D DP | Interval Dynamic Programming (Reverse Last Burst) | O(n^3) | O(n^2) |
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
 | 329 | Longest Increasing Path in a Matrix | 2-D DP | DFS with Memoization (DAG Dynamic Programming) | O(m * n) | O(m * n) |
