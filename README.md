@@ -83,6 +83,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 125 | Valid Palindrome | Two Pointers | Two Pointers with Alphanumeric Filtering | O(n) | O(1) |
 | 127 | Word Ladder | Graphs | Bidirectional Breadth-First Search (BFS) | O(N * L * 26) | O(N * L) |
 | 128 | Longest Consecutive Sequence | Arrays & Hashing | HashSet Sequence Start Check | O(n) | O(n) |
+| 130 | Surrounded Regions | Graphs | Reverse Boundary DFS / Safe Cell Marking | O(m * n) | O(m * n) |
 | 131 | Palindrome Partitioning | Backtracking | Backtracking with Two-Pointer Palindrome Validation | O(n * 2^n) | O(n) |
 | 133 | Clone Graph | Graphs | Recursive DFS with Visited HashMap | O(V + E) | O(V) |
 | 134 | Gas Station | Greedy | Single-Pass Greedy Tank Reset | O(n) | O(1) |
