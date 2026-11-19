@@ -143,6 +143,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 981 | Time Based Key-Value Store | Binary Search | HashMap + Chronological ArrayList + Binary Search | O(1) set / O(log n) get | O(N) |
 | 1143 | Longest Common Subsequence | 2-D DP | Space-Optimized 1-D DP (Rolling Diagonal) | O(m * n) | O(min(m, n)) |
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
+| 1584 | Min Cost to Connect All Points | Advanced Graphs | Prim's Algorithm (Dense MST Optimization) | O(V^2) | O(V) |
 
 ---
 
