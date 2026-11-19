@@ -132,6 +132,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
 | 435 | Non-overlapping Intervals | Intervals | Greedy End-Time Interval Scheduling | O(n log n) | O(1) |
+| 494 | Target Sum | 1-D DP | Mathematical Reduction to 0/1 Subset Sum DP | O(n * S) | O(S) |
 | 543 | Diameter of Binary Tree | Trees | Post-Order DFS / Subtree Depth Aggregation | O(n) | O(h) |
 | 572 | Subtree of Another Tree | Trees | Recursive DFS + Same Tree Helper | O(n * m) | O(h) |
 | 684 | Redundant Connection | Graphs | Disjoint Set Union (Union-Find with Rank & Path Compression) | O(n * alpha(n)) | O(n) |
