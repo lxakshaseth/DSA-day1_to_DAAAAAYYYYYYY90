@@ -121,6 +121,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 295 | Find Median from Data Stream | Heap | Two Balanced Heaps (Max-Heap + Min-Heap) | O(log n) add / O(1) find | O(n) |
 | 297 | Serialize and Deserialize Binary Tree | Trees | Pre-Order DFS with Null Sentinel Markers | O(n) | O(n) |
 | 300 | Longest Increasing Subsequence | 1-D DP | Dynamic Programming (n^2) | O(n^2) | O(n) |
+| 309 | Best Time to Buy and Sell Stock with Cooldown | 1-D DP | State Machine Dynamic Programming (held, sold, rest) | O(n) | O(1) |
 | 312 | Burst Balloons | 2-D DP | Interval Dynamic Programming (Reverse Last Burst) | O(n^3) | O(n^2) |
 | 322 | Coin Change | 1-D DP | Bottom-Up DP Table | O(amount * n) | O(amount) |
 | 329 | Longest Increasing Path in a Matrix | 2-D DP | DFS with Memoization (DAG Dynamic Programming) | O(m * n) | O(m * n) |
@@ -131,6 +132,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
 | 435 | Non-overlapping Intervals | Intervals | Greedy End-Time Interval Scheduling | O(n log n) | O(1) |
+| 494 | Target Sum | 1-D DP | Mathematical Reduction to 0/1 Subset Sum DP | O(n * S) | O(S) |
 | 543 | Diameter of Binary Tree | Trees | Post-Order DFS / Subtree Depth Aggregation | O(n) | O(h) |
 | 572 | Subtree of Another Tree | Trees | Recursive DFS + Same Tree Helper | O(n * m) | O(h) |
 | 684 | Redundant Connection | Graphs | Disjoint Set Union (Union-Find with Rank & Path Compression) | O(n * alpha(n)) | O(n) |
