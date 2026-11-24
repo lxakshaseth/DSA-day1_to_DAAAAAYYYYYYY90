@@ -110,6 +110,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 206 | Reverse Linked List | Linked List | Iterative Three Pointers (prev, curr, next) | O(n) | O(1) |
 | 207 | Course Schedule | Graphs | Kahn's Algorithm (Topological Sort BFS) | O(V + E) | O(V + E) |
 | 208 | Implement Trie (Prefix Tree) | Tries | 26-Way Array TrieNode Tree | O(L) per op | O(N * L) |
+| 211 | Design Add and Search Words Data Structure | Tries | Prefix Tree (Trie) + Wildcard DFS | O(L) add / O(26^k * L) search | O(N * L) |
 | 212 | Word Search II | Tries | Prefix Tree (Trie) + Matrix DFS + Leaf Pruning | O(M * N * 3^L) | O(W * L) |
 | 213 | House Robber II | 1-D DP | Two-Pass Space-Optimized Circular DP | O(n) | O(1) |
 | 215 | Kth Largest Element in an Array | Heap | Min-Heap (PriorityQueue) of size k | O(n log k) | O(k) |
