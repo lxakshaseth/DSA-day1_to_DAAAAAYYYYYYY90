@@ -44,6 +44,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 39 | Combination Sum | Backtracking | Backtracking with element reuse | O(2^(target/min)) | O(target/min) |
 | 40 | Combination Sum II | Backtracking | Sorting + Backtracking with Duplicate and Exceeded-Sum Pruning | O(2^n) | O(n) |
 | 42 | Trapping Rain Water | Two Pointers | Two Pointers with leftMax & rightMax Tracking | O(n) | O(1) |
+| 43 | Multiply Strings | Math & Geometry | Positional Elementary Multiplication Array | O(m * n) | O(m + n) |
 | 46 | Permutations | Backtracking | Backtracking with boolean used array | O(n * n!) | O(n) |
 | 48 | Rotate Image | Math & Geometry | Matrix Transpose + Row Reverse | O(n^2) | O(1) |
 | 49 | Group Anagrams | Arrays & Hashing | Categorization by sorted character key | O(n * k log k) | O(n * k) |
