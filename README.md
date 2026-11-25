@@ -91,6 +91,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 133 | Clone Graph | Graphs | Recursive DFS with Visited HashMap | O(V + E) | O(V) |
 | 134 | Gas Station | Greedy | Single-Pass Greedy Tank Reset | O(n) | O(1) |
 | 136 | Single Number | Bit Manipulation | XOR Cancellation Identity | O(n) | O(1) |
+| 138 | Copy List with Random Pointer | Linked List | Three-Pass In-Place Interleaving and Decoupling | O(n) | O(1) |
 | 139 | Word Break | 1-D DP | Bottom-Up DP with HashSet Lookup | O(n^2 * k) | O(n) |
 | 140 | Word Break II | Backtracking | DFS with Memoization + HashSet Lookup | O(2^n * n) | O(2^n * n) |
 | 141 | Linked List Cycle | Linked List | Floyd's Tortoise and Hare | O(n) | O(1) |
@@ -110,6 +111,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 206 | Reverse Linked List | Linked List | Iterative Three Pointers (prev, curr, next) | O(n) | O(1) |
 | 207 | Course Schedule | Graphs | Kahn's Algorithm (Topological Sort BFS) | O(V + E) | O(V + E) |
 | 208 | Implement Trie (Prefix Tree) | Tries | 26-Way Array TrieNode Tree | O(L) per op | O(N * L) |
+| 211 | Design Add and Search Words Data Structure | Tries | Prefix Tree (Trie) + Wildcard DFS | O(L) add / O(26^k * L) search | O(N * L) |
 | 212 | Word Search II | Tries | Prefix Tree (Trie) + Matrix DFS + Leaf Pruning | O(M * N * 3^L) | O(W * L) |
 | 213 | House Robber II | 1-D DP | Two-Pass Space-Optimized Circular DP | O(n) | O(1) |
 | 215 | Kth Largest Element in an Array | Heap | Min-Heap (PriorityQueue) of size k | O(n log k) | O(k) |
@@ -146,6 +148,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
+| 773 | Sliding Puzzle | Graphs | Breadth-First Search (BFS) in Board State Space | O((R * C)!) | O((R * C)!) |
 | 778 | Swim in Rising Water | Advanced Graphs | Dijkstra's Algorithm (Minimax Bottleneck Path) | O(n^2 log n) | O(n^2) |
 | 787 | Cheapest Flights Within K Stops | Advanced Graphs | Bellman-Ford (Level-by-Level Edge Relaxation) | O(k * E) | O(n) |
 | 853 | Car Fleet | Stack | Position Sorting + Monotonic Arrival-Time Tracking | O(n log n) | O(n) |
@@ -156,6 +159,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
 | 1462 | Course Schedule IV | Advanced Graphs | Floyd-Warshall Transitive Closure (All-Pairs Reachability) | O(V^3 + Q) | O(V^2) |
 | 1584 | Min Cost to Connect All Points | Advanced Graphs | Prim's Algorithm (Dense MST Optimization) | O(V^2) | O(V) |
+| 2013 | Detect Squares | Math & Geometry | 2D Frequency Matrix + Diagonal Point Pairing | O(1) add / O(n) count | O(C^2 + n) |
 
 ---
 
