@@ -143,6 +143,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 518 | Coin Change II | 1-D DP | Unbounded Knapsack Dynamic Programming | O(n * amount) | O(amount) |
 | 543 | Diameter of Binary Tree | Trees | Post-Order DFS / Subtree Depth Aggregation | O(n) | O(h) |
 | 572 | Subtree of Another Tree | Trees | Recursive DFS + Same Tree Helper | O(n * m) | O(h) |
+| 621 | Task Scheduler | Heap | Greedy Frequency Scheduling & Idle Slots Formula | O(n) | O(1) |
 | 678 | Valid Parenthesis String | Greedy | Greedy Range of Open Parentheses [cmin, cmax] | O(n) | O(1) |
 | 684 | Redundant Connection | Graphs | Disjoint Set Union (Union-Find with Rank & Path Compression) | O(n * alpha(n)) | O(n) |
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
