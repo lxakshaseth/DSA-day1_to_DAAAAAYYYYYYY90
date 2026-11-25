@@ -136,6 +136,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 332 | Reconstruct Itinerary | Graphs | Hierholzer's Algorithm (Eulerian Path with Min-Heap) | O(E log E) | O(V + E) |
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
+| 355 | Design Twitter | Heap | Multi-User Linked List News Feed Merge with Max-Heap | O(1) post / O(k log k) feed | O(U + T) |
 | 416 | Partition Equal Subset Sum | 1-D DP | 0/1 Knapsack Space-Optimized DP | O(n * target) | O(target) |
 | 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
