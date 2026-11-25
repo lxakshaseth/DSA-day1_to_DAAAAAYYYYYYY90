@@ -122,6 +122,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 236 | Lowest Common Ancestor of a Binary Tree | Trees | Recursive Post-Order DFS (LCA Split Point) | O(n) | O(h) |
 | 238 | Product of Array Except Self | Arrays & Hashing | Prefix and Suffix Running Products | O(n) | O(1) |
 | 239 | Sliding Window Maximum | Sliding Window | Monotonic Decreasing Deque | O(n) | O(k) |
+| 240 | Search a 2D Matrix II | Binary Search | Stepwise Search from Top-Right (Row/Column Pruning) | O(m + n) | O(1) |
 | 242 | Valid Anagram | Arrays & Hashing | 26-Letter Frequency Array | O(n) | O(1) |
 | 268 | Missing Number | Bit Manipulation | XOR Index-Value Cancellation | O(n) | O(1) |
 | 287 | Find the Duplicate Number | Linked List | Floyd's Tortoise and Hare (Cycle Detection) | O(n) | O(1) |
