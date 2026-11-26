@@ -151,6 +151,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
+| 763 | Partition Labels | Greedy | Greedy Last-Occurrence Boundary Expansion | O(n) | O(1) |
 | 773 | Sliding Puzzle | Graphs | Breadth-First Search (BFS) in Board State Space | O((R * C)!) | O((R * C)!) |
 | 778 | Swim in Rising Water | Advanced Graphs | Dijkstra's Algorithm (Minimax Bottleneck Path) | O(n^2 log n) | O(n^2) |
 | 787 | Cheapest Flights Within K Stops | Advanced Graphs | Bellman-Ford (Level-by-Level Edge Relaxation) | O(k * E) | O(n) |
