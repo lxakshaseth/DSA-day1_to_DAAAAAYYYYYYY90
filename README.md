@@ -122,6 +122,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 236 | Lowest Common Ancestor of a Binary Tree | Trees | Recursive Post-Order DFS (LCA Split Point) | O(n) | O(h) |
 | 238 | Product of Array Except Self | Arrays & Hashing | Prefix and Suffix Running Products | O(n) | O(1) |
 | 239 | Sliding Window Maximum | Sliding Window | Monotonic Decreasing Deque | O(n) | O(k) |
+| 240 | Search a 2D Matrix II | Binary Search | Stepwise Search from Top-Right (Row/Column Pruning) | O(m + n) | O(1) |
 | 242 | Valid Anagram | Arrays & Hashing | 26-Letter Frequency Array | O(n) | O(1) |
 | 268 | Missing Number | Bit Manipulation | XOR Index-Value Cancellation | O(n) | O(1) |
 | 287 | Find the Duplicate Number | Linked List | Floyd's Tortoise and Hare (Cycle Detection) | O(n) | O(1) |
@@ -135,6 +136,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 332 | Reconstruct Itinerary | Graphs | Hierholzer's Algorithm (Eulerian Path with Min-Heap) | O(E log E) | O(V + E) |
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
+| 355 | Design Twitter | Heap | Multi-User Linked List News Feed Merge with Max-Heap | O(1) post / O(k log k) feed | O(U + T) |
 | 416 | Partition Equal Subset Sum | 1-D DP | 0/1 Knapsack Space-Optimized DP | O(n * target) | O(target) |
 | 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
