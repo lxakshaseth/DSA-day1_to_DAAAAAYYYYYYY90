@@ -137,6 +137,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 338 | Counting Bits | Bit Manipulation | Bit-Shift DP ans[i >> 1] + (i & 1) | O(n) | O(1) |
 | 347 | Top K Frequent Elements | Arrays & Hashing | Frequency Map + Bucket Sort | O(n) | O(n) |
 | 355 | Design Twitter | Heap | Multi-User Linked List News Feed Merge with Max-Heap | O(1) post / O(k log k) feed | O(U + T) |
+| 371 | Sum of Two Integers | Bit Manipulation | Bitwise Half-Adder (XOR Sum & AND Carry Shift) | O(1) | O(1) |
 | 416 | Partition Equal Subset Sum | 1-D DP | 0/1 Knapsack Space-Optimized DP | O(n * target) | O(target) |
 | 417 | Pacific Atlantic Water Flow | Graphs | Reverse Multi-Source DFS from Ocean Borders | O(m * n) | O(m * n) |
 | 424 | Longest Repeating Character Replacement | Sliding Window | Sliding Window + Character Frequency Array | O(n) | O(1) |
@@ -151,6 +152,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 704 | Binary Search | Binary Search | Classical Two-Pointer Binary Search | O(log n) | O(1) |
 | 739 | Daily Temperatures | Stack | Monotonic Decreasing Stack | O(n) | O(n) |
 | 743 | Network Delay Time | Advanced Graphs | Dijkstra's Algorithm with Min-Heap | O((V + E) log V) | O(V + E) |
+| 763 | Partition Labels | Greedy | Greedy Last-Occurrence Boundary Expansion | O(n) | O(1) |
 | 773 | Sliding Puzzle | Graphs | Breadth-First Search (BFS) in Board State Space | O((R * C)!) | O((R * C)!) |
 | 778 | Swim in Rising Water | Advanced Graphs | Dijkstra's Algorithm (Minimax Bottleneck Path) | O(n^2 log n) | O(n^2) |
 | 787 | Cheapest Flights Within K Stops | Advanced Graphs | Bellman-Ford (Level-by-Level Edge Relaxation) | O(k * E) | O(n) |
