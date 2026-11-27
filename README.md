@@ -161,6 +161,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 875 | Koko Eating Bananas | Binary Search | Binary Search on Eating Speed Answer Space | O(n log maxPile) | O(1) |
 | 981 | Time Based Key-Value Store | Binary Search | HashMap + Chronological ArrayList + Binary Search | O(1) set / O(log n) get | O(N) |
 | 994 | Rotting Oranges | Graphs | Multi-Source Breadth-First Search (BFS) | O(m * n) | O(m * n) |
+| 1046 | Last Stone Weight | Heap | Max-Heap Simulation | O(n log n) | O(n) |
 | 1143 | Longest Common Subsequence | 2-D DP | Space-Optimized 1-D DP (Rolling Diagonal) | O(m * n) | O(min(m, n)) |
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
 | 1462 | Course Schedule IV | Advanced Graphs | Floyd-Warshall Transitive Closure (All-Pairs Reachability) | O(V^3 + Q) | O(V^2) |
