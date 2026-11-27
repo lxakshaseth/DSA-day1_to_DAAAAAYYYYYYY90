@@ -165,6 +165,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
 | 1462 | Course Schedule IV | Advanced Graphs | Floyd-Warshall Transitive Closure (All-Pairs Reachability) | O(V^3 + Q) | O(V^2) |
 | 1584 | Min Cost to Connect All Points | Advanced Graphs | Prim's Algorithm (Dense MST Optimization) | O(V^2) | O(V) |
+| 1899 | Merge Triplets to Form Target Triplet | Greedy | Greedy Component Filtering & Union Matching | O(n) | O(1) |
 | 2013 | Detect Squares | Math & Geometry | 2D Frequency Matrix + Diagonal Point Pairing | O(1) add / O(n) count | O(C^2 + n) |
 
 ---
