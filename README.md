@@ -38,6 +38,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 22 | Generate Parentheses | Backtracking | Backtracking with Open & Close Counters | O(4^n / sqrt(n)) | O(n) |
 | 23 | Merge k Sorted Lists | Linked List | Divide & Conquer (Bottom-Up Pairwise Merge) | O(N log k) | O(1) |
 | 25 | Reverse Nodes in k-Group | Linked List | Iterative In-Place Reversal with Dummy Head | O(n) | O(1) |
+| 30 | Substring with Concatenation of All Words | Sliding Window | Multi-Offset Sliding Window + Frequency HashMap | O(n) | O(m * k) |
 | 32 | Longest Valid Parentheses | Stack | Two-Pass Bidirectional Scan | O(n) | O(1) |
 | 33 | Search in Rotated Sorted Array | Binary Search | Modified Binary Search | O(log n) | O(1) |
 | 36 | Valid Sudoku | Arrays & Hashing | Single-Pass Boolean Lookup Arrays | O(1) | O(1) |
@@ -164,6 +165,7 @@ A structured and comprehensive 90-day Data Structures and Algorithms repository 
 | 1448 | Count Good Nodes in Binary Tree | Trees | Pre-Order DFS with Running Maximum | O(n) | O(h) |
 | 1462 | Course Schedule IV | Advanced Graphs | Floyd-Warshall Transitive Closure (All-Pairs Reachability) | O(V^3 + Q) | O(V^2) |
 | 1584 | Min Cost to Connect All Points | Advanced Graphs | Prim's Algorithm (Dense MST Optimization) | O(V^2) | O(V) |
+| 1899 | Merge Triplets to Form Target Triplet | Greedy | Greedy Component Filtering & Union Matching | O(n) | O(1) |
 | 2013 | Detect Squares | Math & Geometry | 2D Frequency Matrix + Diagonal Point Pairing | O(1) add / O(n) count | O(C^2 + n) |
 
 ---
